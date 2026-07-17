@@ -21,3 +21,17 @@ npm run dev
 ```text
 http://localhost:5173
 ```
+
+## Deploy on Vercel
+
+This project is ready for Vercel deployment. Set the build command to:
+
+```bash
+npm run build
+```
+
+and the output directory to:
+
+```text
+dist
+```
